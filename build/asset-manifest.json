@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/icoderbootstrapgopi/static/css/main.2784506f.css",
+    "main.js": "/icoderbootstrapgopi/static/js/main.67ebd654.js",
+    "static/js/787.719ec76d.chunk.js": "/icoderbootstrapgopi/static/js/787.719ec76d.chunk.js",
+    "index.html": "/icoderbootstrapgopi/index.html",
+    "main.2784506f.css.map": "/icoderbootstrapgopi/static/css/main.2784506f.css.map",
+    "main.67ebd654.js.map": "/icoderbootstrapgopi/static/js/main.67ebd654.js.map",
+    "787.719ec76d.chunk.js.map": "/icoderbootstrapgopi/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2784506f.css",
+    "static/js/main.67ebd654.js"
+  ]
+}
